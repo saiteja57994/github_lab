@@ -1,2 +1,4 @@
 # github_lab
-im sai teja im no 1 cuuhyuhuhuhuh
+im sai teja
+this is git lab practice session
+
